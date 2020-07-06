@@ -1,0 +1,11 @@
+imutils
+matplotlib
+notebook
+numpy
+sklearn
+tensorflow
+
+
+
+
+
