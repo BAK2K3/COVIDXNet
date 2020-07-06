@@ -1,10 +1,10 @@
 # COVIDXNet
 
-COVIDXNet is a convolutional neural network for COVID-19 detection in chest x rays.
+COVIDXNet is a convolutional neural network for COVID-19 detection in chest x rays. Please see <https://baknet.herokuapp.com/cnn/covid> for an interactive demonstration of this model. 
 
 This Network requires the dataset obtained from:
 
-https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images/data
+<https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images/data>
 
 This Jupyter Notebook takes the extracted images, splits them randomly into test and train folders, and uses TensorFlow Image Generators to train a deep CNN for COVID detection.
 
