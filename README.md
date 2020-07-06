@@ -29,7 +29,5 @@ An example .h5 file have been provided. This has been trained on a GPU and there
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## Author
 My name is Benjamin Kavanagh, and I am an aspiring python developer. Please contact me at benjamin.a.kavanagh@gmail.com for any queries. 
